@@ -157,7 +157,7 @@ GROUP BY region;`
           
           <div className="hero-actions">
             <button className="cta-primary" onClick={onStartApp}>
-              <span>🚀 Начать работу</span>
+              <a href="https://hackathon.shai.pro/workflow/U9auCx5fkRjaB4Z1">🚀 Начать работу</a>
               <span className="button-arrow">→</span>
             </button>
             <button className="cta-secondary">
@@ -349,7 +349,7 @@ GROUP BY region;`
           <p>Присоединяйтесь к тысячам компаний, которые уже используют dexter</p>
           <div className="cta-buttons">
             <button className="cta-primary large" onClick={onStartApp}>
-              <span>Попробовать бесплатно</span>
+              <a href="https://hackathon.shai.pro/workflow/U9auCx5fkRjaB4Z1">Попробовать бесплатно</a>
               <span className="button-arrow">→</span>
             </button>
             <button className="cta-outline">
